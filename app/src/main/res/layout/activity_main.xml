@@ -48,12 +48,12 @@
             android:textSize="24sp" />
 
         <Button
-            android:id="@+id/percen"
+            android:id="@+id/mod"
             android:layout_width="wrap_content"
             android:layout_height="125dp"
             android:layout_weight="1"
             android:text="%"
-            android:onClick="percenOnclick"
+            android:onClick="modOnclick"
             android:textSize="24sp" />
 
         <Button
